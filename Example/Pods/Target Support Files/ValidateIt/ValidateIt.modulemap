@@ -1,0 +1,6 @@
+framework module ValidateIt {
+  umbrella header "ValidateIt-umbrella.h"
+
+  export *
+  module * { export * }
+}

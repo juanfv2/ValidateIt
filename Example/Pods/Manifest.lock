@@ -1,0 +1,16 @@
+PODS:
+  - ValidateIt (0.1.0)
+
+DEPENDENCIES:
+  - ValidateIt (from `../`)
+
+EXTERNAL SOURCES:
+  ValidateIt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ValidateIt: 22e5776a449e13583ffde5363474033bb71f554b
+
+PODFILE CHECKSUM: 776e4d1372f2bb33e01a6d7efdda95eacb6c4e59
+
+COCOAPODS: 1.2.1

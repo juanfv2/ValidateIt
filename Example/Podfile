@@ -1,0 +1,10 @@
+use_frameworks!
+
+target 'ValidateIt_Example' do
+  pod 'ValidateIt', :path => '../'
+
+  target 'ValidateIt_Tests' do
+    inherit! :search_paths
+    
+  end
+end

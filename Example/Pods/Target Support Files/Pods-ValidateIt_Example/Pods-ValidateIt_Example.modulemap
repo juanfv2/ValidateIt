@@ -1,0 +1,6 @@
+framework module Pods_ValidateIt_Example {
+  umbrella header "Pods-ValidateIt_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

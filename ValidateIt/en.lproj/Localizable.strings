@@ -1,0 +1,9 @@
+
+"validateit.accept.term" = "You must accept the terms";
+"validateit.contain" = "%@ should contain letters and space only.";
+"validateit.invalid" = "%@ is invalid.";
+"validateit.maximum" = "%@ should have maximum of %li characters.";
+"validateit.minimum" = "%@ should have minimum of %li characters.";
+"validateit.notequal" = "%@ is not equal to %@.";
+"validateit.number.novalid" = "Phone Number is invalid";
+"validateit.required" = "%@ is required.";
